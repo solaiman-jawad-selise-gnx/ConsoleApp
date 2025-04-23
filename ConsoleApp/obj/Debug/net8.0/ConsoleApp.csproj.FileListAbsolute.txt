@@ -1,0 +1,14 @@
+/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
