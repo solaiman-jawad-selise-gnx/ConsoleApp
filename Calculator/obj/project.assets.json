@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/ConsoleApp.csproj",
-      "projectName": "ConsoleApp",
-      "projectPath": "/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/ConsoleApp.csproj",
+      "projectUniqueName": "/Users/msjawad/RiderProjects/ConsoleApp/Calculator/Calculator.csproj",
+      "projectName": "Calculator",
+      "projectPath": "/Users/msjawad/RiderProjects/ConsoleApp/Calculator/Calculator.csproj",
       "packagesPath": "/Users/msjawad/.nuget/packages/",
-      "outputPath": "/Users/msjawad/RiderProjects/ConsoleApp/ConsoleApp/obj/",
+      "outputPath": "/Users/msjawad/RiderProjects/ConsoleApp/Calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/msjawad/.nuget/NuGet/NuGet.Config"
